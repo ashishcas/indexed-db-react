@@ -1,2 +1,1 @@
-# indexed-db-react
-Created with CodeSandbox
+Todo app project from Ebenezer Don's React course
